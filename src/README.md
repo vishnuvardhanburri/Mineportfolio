@@ -1,4 +1,4 @@
-# 🚀 Vishnu Vardhan Burri - Portfolio
+#  Vishnu Vardhan Burri - Portfolio
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)
